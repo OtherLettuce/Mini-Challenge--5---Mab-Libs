@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mini Challenge #5 - Mab Libs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c58bd25634c2378be1241148a3ede06d21811d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mini Challenge #5 - Mab Libs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mini Challenge #5 - Mab Libs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
