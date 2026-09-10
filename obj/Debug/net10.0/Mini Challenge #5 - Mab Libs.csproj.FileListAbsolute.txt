@@ -1,0 +1,14 @@
+C:\Users\sirpi\OneDrive\Documents\Mini Challenge #5 - Mab Libs\bin\Debug\net10.0\Mini Challenge #5 - Mab Libs.exe
+C:\Users\sirpi\OneDrive\Documents\Mini Challenge #5 - Mab Libs\bin\Debug\net10.0\Mini Challenge #5 - Mab Libs.deps.json
+C:\Users\sirpi\OneDrive\Documents\Mini Challenge #5 - Mab Libs\bin\Debug\net10.0\Mini Challenge #5 - Mab Libs.runtimeconfig.json
+C:\Users\sirpi\OneDrive\Documents\Mini Challenge #5 - Mab Libs\bin\Debug\net10.0\Mini Challenge #5 - Mab Libs.dll
+C:\Users\sirpi\OneDrive\Documents\Mini Challenge #5 - Mab Libs\bin\Debug\net10.0\Mini Challenge #5 - Mab Libs.pdb
+C:\Users\sirpi\OneDrive\Documents\Mini Challenge #5 - Mab Libs\obj\Debug\net10.0\Mini Challenge #5 - Mab Libs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sirpi\OneDrive\Documents\Mini Challenge #5 - Mab Libs\obj\Debug\net10.0\Mini Challenge #5 - Mab Libs.AssemblyInfoInputs.cache
+C:\Users\sirpi\OneDrive\Documents\Mini Challenge #5 - Mab Libs\obj\Debug\net10.0\Mini Challenge #5 - Mab Libs.AssemblyInfo.cs
+C:\Users\sirpi\OneDrive\Documents\Mini Challenge #5 - Mab Libs\obj\Debug\net10.0\Mini Challenge #5 - Mab Libs.csproj.CoreCompileInputs.cache
+C:\Users\sirpi\OneDrive\Documents\Mini Challenge #5 - Mab Libs\obj\Debug\net10.0\Mini Challenge #5 - Mab Libs.dll
+C:\Users\sirpi\OneDrive\Documents\Mini Challenge #5 - Mab Libs\obj\Debug\net10.0\refint\Mini Challenge #5 - Mab Libs.dll
+C:\Users\sirpi\OneDrive\Documents\Mini Challenge #5 - Mab Libs\obj\Debug\net10.0\Mini Challenge #5 - Mab Libs.pdb
+C:\Users\sirpi\OneDrive\Documents\Mini Challenge #5 - Mab Libs\obj\Debug\net10.0\Mini Challenge #5 - Mab Libs.genruntimeconfig.cache
+C:\Users\sirpi\OneDrive\Documents\Mini Challenge #5 - Mab Libs\obj\Debug\net10.0\ref\Mini Challenge #5 - Mab Libs.dll
